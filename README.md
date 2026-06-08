@@ -2,10 +2,10 @@
 
 ## 🎤 About Me
 
-I am Makun Madar, a PhD graduate from Durham University where I conducted research in the field of Computational Astrophysics. I have 1.5 years of industry experience with Kromek Group PLC working within their AI team. I am currently searching to secure a role in Data Science and ML as soon as possible.
+I am Makun Madar, a PhD graduate from Durham University, where I conducted research in the field of Computational Astrophysics. I have 1.5 years of industry experience with Kromek Group PLC, working within their AI team. I am currently working as an Aero Performance Data Scientist with Cadillac F1 Team.
 
 ## 🛠️ Skills
-### I have 6 years of Python experience on projects including physical modelling and analysis of galaxy formation, radio-loud galaxies, and extensive ML. Proficient with many Python libraries, including 
+### I have 7 years of Python experience on projects including physical modelling and analysis of galaxy formation, radio-loud galaxies, and extensive ML. Proficient with many Python libraries, including 
 
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
